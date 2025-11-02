@@ -43,7 +43,7 @@ All code is written in **pure NumPy + Matplotlib**, runs fully on **CPU**, and i
 ![Frequency Independence](6_freq_independence.png)
 ---
 
-## ⚙️ Usage
+##  Usage
 
 1. Open the notebook  
    **`Steerable_Differential_Beamformer_LAVS.ipynb`** in Google Colab.  
@@ -60,8 +60,8 @@ If you use this code, please cite the original paper:
 
 ---
 
-## 🤝 Acknowledgment
+##  Acknowledgment
 Reimplemented and verified by **Soham Gupta **  
-with analytical assistance from **ChatGPT** for formula translation and plotting.
+with analytical assistance from chatgpt for formula translation and plotting.
 
 ---

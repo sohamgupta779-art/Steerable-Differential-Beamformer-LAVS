@@ -25,23 +25,22 @@ All code is written in **pure NumPy + Matplotlib**, runs fully on **CPU**, and i
 ## 📊 Output Results
 
 ### 1️ Traditional Linear Array
-![Uniform Beampattern](plots/1_uniform.png)
+![Uniform Beampattern](1_uniform.png)
 
 ### 2️ First-Order Steerable Beamformer
-![First Order](plots/2_first_order.png)
+![First Order](2_first_order.png)
 
 ### 3️ Second-Order Steerable Beamformer
-![Second Order](plots/3_second_order.png)
+![Second Order](3_second_order.png)
 
 ### 4️ Third-Order Steerable Beamformer
-![Third Order](plots/4_third_order.png)
+![Third Order](4_third_order.png)
 
 ### 5️ Directivity Factor vs Steering Angle
-![DF vs Angle](plots/5_DF_vs_angle.png)
+![DF vs Angle](5_DF_vs_angle.png)
 
 ### 6️ Frequency Independence Test
-![Frequency Independence](plots/6_freq_independence.png)
-
+![Frequency Independence](6_freq_independence.png)
 ---
 
 ## ⚙️ Usage
